@@ -8,7 +8,11 @@ Itens abordados
 * Utilização o cli do Sequelize
 * Utilização do Postman para testes da API
 * Padrão MVC - Model, View, Controller
+* Criação de modelos e automatização do processo com Sequelize
+* Seeds
+* Migrações
 * Relacionamentos entre entidades: 1:1, 1:n e n:m
+* Utilização do paradigma de Orientaçào a objetos para reaproveitamento de código
 
 
 
@@ -25,6 +29,9 @@ Referências
 * [Detalhes da API Reference do Sequelize](https://sequelize.org/api/v6/class/src/model.js~model)
 * [Foreign Keys no SQLite](https://www.sqlite.org/foreignkeys.html)
 * [Seeds e Migrations](https://sequelize.org/docs/v6/other-topics/migrations/#undoing-seeds)
+* [Boas práticas na construção de APIs REST](https://www.sitepoint.com/build-restful-apis-best-practices/)
+* [Mixings no Sequelize](https://sequelize.org/docs/v6/core-concepts/assocs/#special-methodsmixins-added-to-instances)
+
 
 
 
