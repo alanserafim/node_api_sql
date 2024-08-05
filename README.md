@@ -13,6 +13,7 @@ Itens abordados
 * Migrações
 * Relacionamentos entre entidades: 1:1, 1:n e n:m
 * Utilização do paradigma de Orientaçào a objetos para reaproveitamento de código
+* Soft delete usando Sequelize
 
 
 
@@ -31,6 +32,9 @@ Referências
 * [Seeds e Migrations](https://sequelize.org/docs/v6/other-topics/migrations/#undoing-seeds)
 * [Boas práticas na construção de APIs REST](https://www.sitepoint.com/build-restful-apis-best-practices/)
 * [Mixings no Sequelize](https://sequelize.org/docs/v6/core-concepts/assocs/#special-methodsmixins-added-to-instances)
+* [Paranoid](https://sequelize.org/docs/v6/core-concepts/paranoid/)
+* [Política de Privacidade - Meta](https://www.facebook.com/legal/terms)
+* [Política de Privacidade - Google](https://policies.google.com/privacy?hl=pt-BR)
 
 
 
