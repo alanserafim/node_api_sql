@@ -15,7 +15,10 @@ Itens abordados
 * Utilização do paradigma de Orientaçào a objetos para reaproveitamento de código
 * Soft delete usando Sequelize
 * Escopos no Sequelize
+* Helper Functions
 * Validação de dados recebidos
+* Conversão de strings
+* Métodos mixin
 
 
 
