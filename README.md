@@ -19,6 +19,8 @@ Itens abordados
 
 
 
+
+
 Referências
 * [Sequelize](https://sequelize.org/)
 * [SQLite](https://www.sqlite.org/index.html)
