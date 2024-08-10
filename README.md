@@ -22,6 +22,8 @@ Itens abordados
 * Contagem de registros
 * Estratégias de Eager e Lazy Loanding  
 * Agrupamento 
+* Consultas a referência da API
+* Garatindo integridade de operaçòes utilizando Transactions
 
 
 
@@ -59,6 +61,9 @@ Referências
 * [Método built in do Sequelize para contagem count](https://sequelize.org/docs/v6/core-concepts/model-querying-basics/#count)
 * [Lista de operadores genéricos do SQL](https://www.w3schools.com/sql/sql_operators.asp)
 * [Documentação sobre operadores do SQLite](https://www.sqlite.org/lang_expr.html)
+* [Assinatura de funções ou métodos](https://developer.mozilla.org/en-US/docs/Glossary/Signature/Function)
+* [Assinatura do método update do sequelize](https://sequelize.org/api/v6/class/src/model.js~model#static-method-update)
+* [Documentação do Sequelize sobre transações](https://sequelize.org/docs/v6/other-topics/transactions/)
 
 
 
